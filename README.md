@@ -14,6 +14,6 @@ To get started, you need to download example datasets from URLs as below:
 
 [Pathway Sparse Mask](http://datax.kennesaw.edu/MiNet/gbm_binary_pathway_mask.npz)
 
-## Training, Validation and Evaluation of Cox-PASNet
+## Training, Validation and Evaluation of MiNet
 Run.py: to train the model with the inputs from train.csv. Hyperparmeters are optimized by grid search automatically with validation.csv. C-index is used to evaluate the model performance with test.csv.
 
